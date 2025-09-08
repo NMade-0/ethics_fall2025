@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Computing Ethics"
+title                    : "Nicholas Tries to Talk Ethics"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
