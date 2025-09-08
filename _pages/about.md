@@ -12,7 +12,7 @@ Welcome, welcome! This page is meant to showcase my case study, podcasts, and bl
 
 About Me
 ---
-Well howdy! It's you favorite classmate Nicholas Magnusson! Apparently apart of these things:[Mathematics, and Computer Science Department. Here is a link to a very pathetic page about it:  (https://wp.stolaf.edu/mscs/) I'm earning my B.S in Wouldn't you know it!? Computer science, and a math, though I would prefer a concentration in math. Let's see...I had a reote internship where I worked on full-stack apple application developement. Kinda cool, though the app was about as boring of an app you could get with apps...(It was a survey app with no direct goal in particular) But hey! We got a successful beta test out into the world using App Store Connect!
+Well howdy! It's you favorite classmate Nicholas Magnusson! I'm earning my B.S in wouldn't you know it!? Computer science, and a little math, though I would prefer a concentration in math. Let's see...I had a remote internship where I worked on full-stack, app developement. Kinda cool, though the app was about as boring of an app you could get with apps...(It was a survey app with no direct goal in particular) But hey! We got a successful beta test out into the world using App Store Connect!
 
 Research 
 ---
