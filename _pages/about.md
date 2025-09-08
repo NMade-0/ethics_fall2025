@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, welcome! This page is meant to showcase my case study, podcasts, and blog posts reflecting on readings. I hope your day gets at least 1% better here, if not...I'm sorry I failed you
+Welcome, welcome! This page is meant to showcase my case study, podcasts, and blog posts trying to reflect on readings. I hope your day gets at least 1% better here, if not...I'm sorry I failed you
 
 
 About Me
