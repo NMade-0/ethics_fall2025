@@ -1,17 +1,46 @@
 ---
 permalink: /casestudy/
-title: "Case Study"
+title: "The Future of Employment"
 author_profile: true
+layout: default
 ---
+# Case Study: The Future of Employment with AI
 
-Drop spot for your case study work
+## 1. Introduction
+- What is AI and how it’s changing work.
+- Why this topic matters.
+- Main question: How will AI affect jobs in the future?
 
-## Overview
+## 2. Background
+- Brief history of automation and technology in jobs.
+- Current examples of AI in workplaces.
+- Who is most affected.
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
+## 3. Ethical Issues
+- Job loss and inequality.
+- Bias in hiring algorithms.
+- Privacy and worker monitoring.
+- Who benefits and who doesn’t.
 
-## Requirements
+## 4. Stakeholders
+- Workers
+- Employers
+- Governments
 
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
+## 5. Example Case
+- AI hiring tools.
+- Describe what happened.
+- Discuss pros and cons.
 
+## 6. Analysis
+- What ethical questions arise?
+- How could it be handled better?
+- What might happen long-term?
+
+## 7. Solutions and Recommendations
+- Training and re-skilling programs.
+- Fair AI design and audits.
+- Policy and regulation ideas.
+
+## 8. Conclusion
+- Key takeaways.
