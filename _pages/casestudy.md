@@ -44,3 +44,16 @@ layout: default
 
 ## 8. Conclusion
 - Key takeaways.
+
+
+
+
+[Go to activity page](activity/)
+
+[Go to citations page](citations/)
+
+[Go to stakeholder 1](stakeholder1/)
+
+[Go to stakeholder 2](stakeholder2/)
+
+[Go to stakeholder 3](stakeholder3/)
