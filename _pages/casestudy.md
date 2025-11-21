@@ -5,8 +5,6 @@ author_profile: true
 layout: default
 ---
 
-
-
 # Case Study: The Future of Employment with AI
 
 ## 1. Introduction
@@ -61,4 +59,3 @@ layout: default
 
 [Go to stakeholder 3](stakeholder3/)
 
-</div>
