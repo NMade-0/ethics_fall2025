@@ -4,7 +4,7 @@ title: "The Future of Employment"
 author_profile: true
 layout: default
 ---
-<div style="padding-left: 40px;">
+
 
 
 # Case Study: The Future of Employment with AI
