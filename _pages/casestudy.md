@@ -5,10 +5,10 @@ author_profile: true
 layout: default
 ---
 
-# Case Study: The Future of Employment with AI
+# Case Study: The Future of Job sustainability with AI
 
 ## 1. Introduction
-With every invention that has had an impact on the daily lives of people, artificial intelligence (AI) is no exception. If anything, AI might become the invention that has one of the most salient impacts on human life. Many people believe that artificial intelligence is still in its early stages of life. As the development of artificial intelligence continues to accelerate and grow at immeasurable speeds, questions arise at the stability of the job market and the increasing concentration of technological power. This case study examines the emerging risks of AI and how AI may reshape the future of employment and authority.
+With every invention that has had an impact on the daily lives of people, artificial intelligence (AI) is no exception. If anything, AI might become the invention that has one of the most salient impacts on human life. Many people believe that artificial intelligence is still in its early stages of life. As the development of artificial intelligence continues to accelerate and grow at immeasurable speeds, questions arise at the stability of the job market and the increasing concentration of technological power. This case study examines the emerging risks of AI and how AI may reshape the future of job sustainability.
 
 ## 2. Background
 While most people had not heard about artificial intelligence until 2020, AI has been around far longer than that. The earliest stages of AI are in what can be classified as the “Rule-Based” stage. The stage takes place from the years 1950-1970, some arguing the development commenced even earlier in the 40s. One of the highlights of the earliest models includes formal logic, which is an approach to represent concepts mathematically. These models lacked the ability to learn new information as the models relied solely on rules given when being programmed.
@@ -19,12 +19,26 @@ The third stage of AI models, taking place from 200-2010, can be thought of as t
 
 The fourth stage is where, as of writing this in 2025, artificial intelligence is currently at. Starting from around 2010-2025/present, people start to see AI jump out of the shadows and start doing many things at unfathomable levels of uncanny. AI can now create music, write entire scripts for a musical, write code, and become one’s new best friend. The models are created with multi-dimensional neural networks called deep learning. The corpus, training data capacity, of the new language models are ginormous. “With 175 billion parameters, it represents one of the most sophisticated and largest language models to date.
 
+So what does any of the information provided so far have to do with employment and authority? Well, history is showing that AI is evolving at an ever faster rate. "'[T]'here is little consensus on the nature and scale of generative AI’s potential impacts," meaning the majority of people don't even know how to properly respond and build up proper safety measures from avoiding harm  by artificial intelligence. 
+
+Need a transitional piece here.
+
 
 ## 3. Ethical Issues
-- Job loss and inequality.
-- Bias in hiring algorithms.
-- Privacy and worker monitoring.
-- Who benefits and who doesn’t.
+
+# "Despite high stakes for workers, we are not prepared for the potential risks and opportunities that generative AI is poised to bring. So far, the U.S. and other nations lack the urgency, mental models, worker power, policy solutions, and business practices needed for workers to benefit from AI and avoid its harms." - Kinder et al. 
+
+In 2024, a part-time journalist, Mateusz Demski, was let go due to 'financial problems' from a morning show called Radio Kraków. The journalist has been working for the company for two year traveling to countries and interviewing a wide range of people and places--"from artists to activists." It was only a few months later when Radio Kraków started launching programs hosted by AI. 
+
+Early on, the show screened a live interview with a guy by the name of Wisława Szymborska. Wisława had won the Nobel prize for her literature in 1996. There was just one peculiar thing about the interview. Wisława had died 12 years prior to the interview. The public "interview" of a dead person. The temerity of a company to ignore the ethical issues of such an interview. The story does not end here, for Radio Kraków. Read more about (Wisława's story)[https://www.theguardian.com/technology/2025/may/31/the-workers-who-lost-their-jobs-to-ai-chatgpt].
+
+# I couldn’t understand it: radio is created by people for other people. We cannot replace our experiences, emotions or voices with avatars. - Demski
+
+People are losing their jobs left and right from artificial intelligence. "Wall Street expects to replace 200,000 roles with AI in the next 3 to 5 years" (Bloomberg). In fact, one of the things surveys are seeing is that the higher paying jobs are at more rist to being replaced by AI--earning on average $33.3/hour. Where the people least exposed to AI are earing on average $20/hour.
+
+Jobs involving repetitive, data-driven, and knowledge-based tasks are most at risk of AI replacement. These roles often involve information processing, research, and writing, which generative AI excels at. 
+
+
 
 ## 4. Stakeholders
 - Workers
