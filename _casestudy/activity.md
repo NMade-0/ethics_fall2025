@@ -1,44 +1,41 @@
 ---
-title: "The Future of Employment"
+title: "Activity"
 layout: default
 ---
-# Case Study: The Future of Employment with AI
+Objective
+---
+Get hired by the famous company PETDOG — a brand focused on creating beautiful dog beds and fun, safe toys for dogs.
 
-## 1. Introduction
-- What is AI and how it’s changing work.
-- Why this topic matters.
-- Main question: How will AI affect jobs in the future?
+Rules
+---
+## Number of players
+2 or more
 
-## 2. Background
-- Brief history of automation and technology in jobs.
-- Current examples of AI in workplaces.
-- Who is most affected.
+## 1.
+You have one minute to write down as many resume and application keywords as you can that PETDOG’s AI hiring scanner might look for.
+Think broadly — traits like “problem solver,” “detail-oriented,” “creative,” or “reliable” all count.
 
-## 3. Ethical Issues
-- Job loss and inequality.
-- Bias in hiring algorithms.
-- Privacy and worker monitoring.
-- Who benefits and who doesn’t.
+When the minute is up, stop writing.
 
-## 4. Stakeholders
-- Workers
-- Employers
-- Governments
+## 2. 
+Open the next tab containing PETDOG’s official keyword list.
+Review your words and place a checkmark next to every word or phrase that appears on the scanner list.
 
-## 5. Example Case
-- AI hiring tools.
-- Describe what happened.
-- Discuss pros and cons.
+[Go to PETDOGS's official keyword list](PETDOGKeywords.md/)
 
-## 6. Analysis
-- What ethical questions arise?
-- How could it be handled better?
-- What might happen long-term?
+## 3. 
+Add up your checkmarks:
+1 point per matching keyword, no partial credit.
 
-## 7. Solutions and Recommendations
-- Training and re-skilling programs.
-- Fair AI design and audits.
-- Policy and regulation ideas.
+## 4.
+The player with the highest total score is officially hired by PETDOG.
 
-## 8. Conclusion
-- Key takeaways.
+In case of a tie, the first person to give the author of this case study 10 bucks is hired.
+
+
+
+
+
+
+
+

@@ -2,4 +2,8 @@
 title: "Stakeholder 2: Employers"
 layout: default
 ---
-Employers benefit from AI through higher efficiency, lower costs, and faster decision-making. However, they must balance profit with ethical responsibility—avoiding bias, maintaining transparency, and supporting displaced employees.
+Employers are key stakeholders in the use of AI because they are the primary decision-makers responsible for adopting and deploying these technologies. Many organizations turn to AI to reduce operational costs, increase efficiency, and remain competitive in rapidly evolving markets. From a business perspective, AI can offer faster workflows, scalable production, and new opportunities for innovation.
+
+However, employers also carry ethical responsibility for the consequences of these decisions. Choices to replace or augment human labor with AI directly impact workers’ livelihoods, workplace culture, and public trust. When AI adoption prioritizes profit or efficiency without considering worker well-being, transparency, or fairness, employers risk reinforcing inequality and causing long-term harm. Ethical AI implementation requires employers to balance economic incentives with accountability, worker protections, and responsible labor practices.
+
+Many people have heard about how teams for a company, like Human Resources, use AI models to quickly scan job applications and resumes. These systems are often designed to filter candidates based on keywords, previous experience, education, or patterns learned from past hiring data. While this can save time and reduce costs for employers, it also means that applicants may be evaluated by automated systems before any human review takes place. As a result, qualified candidates can be excluded due to biased training data, rigid criteria, or a lack of transparency in how hiring decisions are made.
