@@ -21,7 +21,7 @@ When the minute is up, stop writing.
 Open the next tab containing PETDOG’s official keyword list.
 Review your words and place a checkmark next to every word or phrase that appears on the scanner list.
 
-[Go to PETDOGS's official keyword list](PETDOGKeywords.md/)
+[Go to PETDOGS's official keyword list](../_casestudy/PETDOGKeywords.md)
 
 ## 3. 
 Add up your checkmarks:
